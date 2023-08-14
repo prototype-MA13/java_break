@@ -3,6 +3,9 @@ Juego en 2D desarrollado en Java, el cual recrea el clásico juego de arcade "Br
 maneja una paleta para controlar el movimiento de una bola para destruir los bloques que estan en la parte
 superior de la pantalla. El objetivo es destruir todos los bloques sin dejar que la bola caiga al fondo.
 
+![Imagen1](https://github.com/prototype-MA13/java_break/assets/125085949/8047a33d-5df6-4061-aa33-0c348ff5b0ff)
+
+
 ## Requisitos del Sistema
 Java 8 o superior
 
